@@ -1,0 +1,25 @@
+# Build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+CTestTestfile.cmake
+Makefile
+*.cmake
+
+# Executables / binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Runtime database files
+/data/*.nxt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
