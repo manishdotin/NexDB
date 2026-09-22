@@ -351,15 +351,16 @@ NexDB/
 │
 ├── data/
 │   └── .gitkeep
+│   └── demo.sql
 │
 ├── screenshots/
+│   ├── .gitkeek
 │   ├── cli.png
 │   ├── create-table.png
 │   └── query-results.png
 │
 ├── CMakeLists.txt
 ├── README.md
-├── CHANGELOG.md
 ├── demo.sql
 ├── LICENSE
 └── .gitignore
