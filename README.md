@@ -354,7 +354,7 @@ NexDB/
 │   └── demo.sql
 │
 ├── screenshots/
-│   ├── .gitkeek
+│   ├── .gitkeep
 │   ├── cli.png
 │   ├── create-table.png
 │   └── query-results.png
